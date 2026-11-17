@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
+  <rect width="400" height="60" rx="8" fill="#10223E"/>
+  <path d="M14 29 38 9l24 20v23H45V37H31v15H14z" fill="#F4F7FC"/>
+  <text x="76" y="29" fill="#F4F7FC" font-family="Arial, sans-serif" font-size="30" font-weight="700">Home Credit</text>
+  <text x="77" y="51" fill="#C5D5E8" font-family="Arial, sans-serif" font-size="18">Risk Analytics</text>
+</svg>
